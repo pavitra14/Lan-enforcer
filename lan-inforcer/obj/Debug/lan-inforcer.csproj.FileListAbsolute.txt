@@ -1,0 +1,9 @@
+J:\Pavitra\code\VS2013\Projects\lan-inforcer\lan-inforcer\bin\Debug\lan-inforcer.exe.config
+J:\Pavitra\code\VS2013\Projects\lan-inforcer\lan-inforcer\bin\Debug\lan-inforcer.exe
+J:\Pavitra\code\VS2013\Projects\lan-inforcer\lan-inforcer\bin\Debug\lan-inforcer.pdb
+J:\Pavitra\code\VS2013\Projects\lan-inforcer\lan-inforcer\obj\Debug\lan-inforcer.csprojResolveAssemblyReference.cache
+J:\Pavitra\code\VS2013\Projects\lan-inforcer\lan-inforcer\obj\Debug\lan_inforcer.Form1.resources
+J:\Pavitra\code\VS2013\Projects\lan-inforcer\lan-inforcer\obj\Debug\lan_inforcer.Properties.Resources.resources
+J:\Pavitra\code\VS2013\Projects\lan-inforcer\lan-inforcer\obj\Debug\lan-inforcer.csproj.GenerateResource.Cache
+J:\Pavitra\code\VS2013\Projects\lan-inforcer\lan-inforcer\obj\Debug\lan-inforcer.exe
+J:\Pavitra\code\VS2013\Projects\lan-inforcer\lan-inforcer\obj\Debug\lan-inforcer.pdb
